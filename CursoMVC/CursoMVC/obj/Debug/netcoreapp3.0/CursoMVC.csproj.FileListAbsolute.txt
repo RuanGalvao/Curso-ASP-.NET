@@ -164,7 +164,6 @@ C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAna
 C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Create.cshtml.g.cs
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Delete.cshtml.g.cs
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Details.cshtml.g.cs
@@ -175,3 +174,9 @@ C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Produtos
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Curso ASP .NET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso ASP .NET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
